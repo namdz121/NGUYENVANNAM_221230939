@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<h2>Danh sách sản phẩm</h2>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="card">
+                <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name" />
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text text-danger">@item.Price.ToString("C")</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
