@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\lad_06\\lad_06\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|solutionrelative:lad_06\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\lad_06\\lad_06\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|solutionrelative:lad_06\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\lad_06\\lad_06\\views\\member\\getmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|solutionrelative:lad_06\\views\\member\\getmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\lad_06\\lad_06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|solutionrelative:lad_06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\lad_06\\lad_06\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|solutionrelative:lad_06\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\lad_06\\lad_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|solutionrelative:lad_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\lad_06\\lad_06\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|solutionrelative:lad_06\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\lad_06\\lad_06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|solutionrelative:lad_06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\lad_06\\lad_06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{872D341B-AF44-C30B-5864-E4A3E9B4DA6E}|Lad_06\\Lad_06.csproj|solutionrelative:lad_06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lad_06\\Views\\Member\\Create.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Member\\Create.cshtml*",
+              "RelativeToolTip": "Lad_06\\Views\\Member\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T16:45:19.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lad_06\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lad_06\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T16:37:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetMembers.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Member\\GetMembers.cshtml",
+              "RelativeDocumentMoniker": "Lad_06\\Views\\Member\\GetMembers.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Member\\GetMembers.cshtml*",
+              "RelativeToolTip": "Lad_06\\Views\\Member\\GetMembers.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T16:13:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Program.cs",
+              "RelativeDocumentMoniker": "Lad_06\\Program.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Program.cs",
+              "RelativeToolTip": "Lad_06\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T16:04:40.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lad_06\\Views\\Member\\Index.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "Lad_06\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T16:01:19.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lad_06\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lad_06\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T15:55:21.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Lad_06\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Controllers\\MemberController.cs*",
+              "RelativeToolTip": "Lad_06\\Controllers\\MemberController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:52:58.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Models\\DataModels\\Member.cs",
+              "RelativeDocumentMoniker": "Lad_06\\Models\\DataModels\\Member.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Models\\DataModels\\Member.cs",
+              "RelativeToolTip": "Lad_06\\Models\\DataModels\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T10:20:48.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lad_06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Lad_06\\Lad_06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lad_06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T10:19:12.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

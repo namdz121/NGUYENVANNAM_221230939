@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\nguyenvannam_221230993\\nguyenvannam_221230993\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|solutionrelative:nguyenvannam_221230993\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\nguyenvannam_221230993\\nguyenvannam_221230993\\views\\hvthome\\nvnabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|solutionrelative:nguyenvannam_221230993\\views\\hvthome\\nvnabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\nguyenvannam_221230993\\nguyenvannam_221230993\\views\\hvthome\\nvncontac.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|solutionrelative:nguyenvannam_221230993\\views\\hvthome\\nvncontac.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\nguyenvannam_221230993\\nguyenvannam_221230993\\models\\nvncatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|solutionrelative:nguyenvannam_221230993\\models\\nvncatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\nguyenvannam_221230993\\nguyenvannam_221230993\\views\\shared\\nvnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|solutionrelative:nguyenvannam_221230993\\views\\shared\\nvnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\nguyenvannam_221230993\\nguyenvannam_221230993\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|solutionrelative:nguyenvannam_221230993\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\nguyenvannam_221230993\\nguyenvannam_221230993\\controllers\\nvnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|solutionrelative:nguyenvannam_221230993\\controllers\\nvnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\nguyenvannam_221230993\\nguyenvannam_221230993\\views\\hvthome\\nvnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|solutionrelative:nguyenvannam_221230993\\views\\hvthome\\nvnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\nguyenvannam_221230993\\nguyenvannam_221230993\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E77782-20D9-B76E-CC59-807B22B83E6E}|Nguyenvannam_221230993\\Nguyenvannam_221230993.csproj|solutionrelative:nguyenvannam_221230993\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\appsettings.json",
+              "RelativeDocumentMoniker": "Nguyenvannam_221230993\\appsettings.json",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\appsettings.json",
+              "RelativeToolTip": "Nguyenvannam_221230993\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-14T03:41:48.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nvnCatalog.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Models\\nvnCatalog.cs",
+              "RelativeDocumentMoniker": "Nguyenvannam_221230993\\Models\\nvnCatalog.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Models\\nvnCatalog.cs",
+              "RelativeToolTip": "Nguyenvannam_221230993\\Models\\nvnCatalog.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:40:58.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nvnLayout.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\Shared\\nvnLayout.cshtml",
+              "RelativeDocumentMoniker": "Nguyenvannam_221230993\\Views\\Shared\\nvnLayout.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\Shared\\nvnLayout.cshtml",
+              "RelativeToolTip": "Nguyenvannam_221230993\\Views\\Shared\\nvnLayout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T03:39:36.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nguyenvannam_221230993\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nguyenvannam_221230993\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T03:38:41.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nvnContac.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\hvtHome\\nvnContac.cshtml",
+              "RelativeDocumentMoniker": "Nguyenvannam_221230993\\Views\\hvtHome\\nvnContac.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\hvtHome\\nvnContac.cshtml",
+              "RelativeToolTip": "Nguyenvannam_221230993\\Views\\hvtHome\\nvnContac.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T03:37:49.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nvnAbout.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\hvtHome\\nvnAbout.cshtml",
+              "RelativeDocumentMoniker": "Nguyenvannam_221230993\\Views\\hvtHome\\nvnAbout.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\hvtHome\\nvnAbout.cshtml",
+              "RelativeToolTip": "Nguyenvannam_221230993\\Views\\hvtHome\\nvnAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T03:37:31.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nvnIndex.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\hvtHome\\nvnIndex.cshtml",
+              "RelativeDocumentMoniker": "Nguyenvannam_221230993\\Views\\hvtHome\\nvnIndex.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Views\\hvtHome\\nvnIndex.cshtml",
+              "RelativeToolTip": "Nguyenvannam_221230993\\Views\\hvtHome\\nvnIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-14T03:36:59.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nguyenvannam_221230993\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nguyenvannam_221230993\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:34:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nvnHomeController.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Controllers\\nvnHomeController.cs",
+              "RelativeDocumentMoniker": "Nguyenvannam_221230993\\Controllers\\nvnHomeController.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\Nguyenvannam_221230993\\Nguyenvannam_221230993\\Controllers\\nvnHomeController.cs",
+              "RelativeToolTip": "Nguyenvannam_221230993\\Controllers\\nvnHomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T03:32:09.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -54,8 +54,7 @@
               "RelativeToolTip": "lad_04\\Controllers\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T15:46:08.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T15:46:08.385Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "lad_04\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T15:45:55.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T15:45:55.451Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "lad_04\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-12T15:43:16.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T15:43:16.884Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "lad_04\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T15:35:49.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T15:35:49.358Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "lad_04\\Views\\Book\\Index.cshtml",
               "ViewState": "AgIAABkAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-12T15:28:22.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T15:28:22.071Z"
             },
             {
               "$type": "Document",
@@ -115,25 +110,23 @@
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\lad_04\\lad_04\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "lad_04\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\lad_04\\lad_04\\Controllers\\BookController.cs*",
-              "RelativeToolTip": "lad_04\\Controllers\\BookController.cs*",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\lad_04\\lad_04\\Controllers\\BookController.cs",
+              "RelativeToolTip": "lad_04\\Controllers\\BookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T15:22:39.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T15:22:39.076Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "lad_04",
+              "Title": "lad_04.csproj",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\lad_04\\lad_04\\lad_04.csproj",
               "RelativeDocumentMoniker": "lad_04\\lad_04.csproj",
               "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\lad_04\\lad_04\\lad_04.csproj",
               "RelativeToolTip": "lad_04\\lad_04.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-12T15:22:24.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T15:22:24.294Z"
             },
             {
               "$type": "Document",
@@ -141,9 +134,9 @@
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\lad_04\\lad_04\\Models\\Book.cs",
               "RelativeDocumentMoniker": "lad_04\\Models\\Book.cs",
-              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\lad_04\\lad_04\\Models\\Book.cs*",
-              "RelativeToolTip": "lad_04\\Models\\Book.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\lad_04\\lad_04\\Models\\Book.cs",
+              "RelativeToolTip": "lad_04\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-12T15:22:21.641Z",
               "EditorCaption": ""
