@@ -1,0 +1,22 @@
+﻿@model IEnumerable<lad_07_2.Models.Category>
+
+<h2>Danh sách danh mục</h2>
+<a asp-action="Create" class="btn btn-primary">Thêm mới</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Tên danh mục</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
