@@ -1,0 +1,85 @@
+﻿@model th_lad_01.Models.Student
+
+@{
+    ViewData["Title"] = "Thêm mới sinh viên";
+}
+
+<div class="container mt-3">
+    <form asp-controller="Student" asp-action="Create" method="post">
+        <div class="row mb-3">
+            <label asp-for="Name" class="col-sm-2 col-form-label">Họ tên</label>
+            <div class="col-sm-10">
+                <input asp-for="Name" class="form-control" placeholder="Họ tên" required />
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Email" class="col-sm-2 col-form-label">Email</label>
+            <div class="col-sm-10">
+                <input asp-for="Email" type="email" class="form-control" placeholder="Email" required />
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Password" class="col-sm-2 col-form-label">Mật khẩu</label>
+            <div class="col-sm-10">
+                <input asp-for="Password" type="password" class="form-control" placeholder="Password" required />
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Branch" class="col-sm-2 col-form-label">Ngành học</label>
+            <div class="col-sm-10">
+                <select asp-for="Branch" class="form-select" asp-items="Html.GetEnumSelectList<th_lad_01.Models.Branch>()">
+                </select>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="IsRegular" class="col-sm-2 col-form-label">Hệ đào tạo</label>
+            <div class="col-sm-10 d-flex align-items-center">
+                <div class="form-check">
+                    <input asp-for="IsRegular" class="form-check-input" type="checkbox" id="isRegularCheck" />
+                    <label class="form-check-label" for="isRegularCheck">Chính quy</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="DateOfBorth" class="col-sm-2 col-form-label">Ngày sinh</label>
+            <div class="col-sm-10">
+                <input asp-for="DateOfBorth" type="datetime-local" class="form-control" />
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Gender" class="col-sm-2 col-form-label">Giới tính</label>
+            <div class="col-sm-10">
+                @if (ViewBag.AllGenders != null)
+                {
+                    @foreach (var gender in ViewBag.AllGenders)
+                    {
+                        <div class="form-check form-check-inline">
+                            <input type="radio" asp-for="Gender" value="@gender" id="Gender_@gender" class="form-check-input" />
+                            <label class="form-check-label" for="Gender_@gender">@gender</label>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="Address" class="col-sm-2 col-form-label">Địa chỉ</label>
+            <div class="col-sm-10">
+                <textarea asp-for="Address" class="form-control" placeholder="Địa chỉ"></textarea>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-10 offset-sm-2">
+                <button type="submit" class="btn btn-primary">Create</button>
+                <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </div>
+    </form>
+</div>

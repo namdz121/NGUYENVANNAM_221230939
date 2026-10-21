@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\th_lad_01\\th_lad_01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|solutionrelative:th_lad_01\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\th_lad_01\\th_lad_01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|solutionrelative:th_lad_01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\th_lad_01\\th_lad_01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|solutionrelative:th_lad_01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\th_lad_01\\th_lad_01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|solutionrelative:th_lad_01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\th_lad_01\\th_lad_01\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|solutionrelative:th_lad_01\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\th_lad_01\\th_lad_01\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CE70C2-516C-5A22-2EEA-592DCD236D37}|th_lad_01\\th_lad_01.csproj|solutionrelative:th_lad_01\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "th_lad_01\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "th_lad_01\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAACAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T03:03:41.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "th_lad_01\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "th_lad_01\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T02:59:50.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "th_lad_01\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "th_lad_01\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:58:41.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "th_lad_01\\Models\\Student.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Models\\Student.cs",
+              "RelativeToolTip": "th_lad_01\\Models\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:57:47.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "th_lad_01\\Models\\Branch.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Models\\Branch.cs",
+              "RelativeToolTip": "th_lad_01\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:56:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "th_lad_01\\Models\\Gender.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_01\\th_lad_01\\Models\\Gender.cs",
+              "RelativeToolTip": "th_lad_01\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T02:56:17.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
