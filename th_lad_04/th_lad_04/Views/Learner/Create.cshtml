@@ -1,0 +1,46 @@
+@model th_lad_04.Models.Learner
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container mt-4">
+    <h2>Create Learner</h2>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <form asp-action="Create" method="post">
+        <div class="mb-3 row">
+            <label asp-for="FirstMidName" class="col-sm-2 col-form-label">Tên</label>
+            <div class="col-sm-6">
+                <input asp-for="FirstMidName" class="form-control" />
+                <span asp-validation-for="FirstMidName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="LastName" class="col-sm-2 col-form-label">Họ</label>
+            <div class="col-sm-6">
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="MajorID" class="col-sm-2 col-form-label">Ngành học</label>
+            <div class="col-sm-6">
+                <select asp-for="MajorID" class="form-select" asp-items="@ViewBag.MajorID"></select>
+                <span asp-validation-for="MajorID" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <label asp-for="EnrollmentDate" class="col-sm-2 col-form-label">Ngày nhập học</label>
+            <div class="col-sm-6">
+                <input asp-for="EnrollmentDate" type="date" class="form-control" />
+                <span asp-validation-for="EnrollmentDate" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 offset-sm-2">
+                <button type="submit" class="btn btn-success">Create</button>
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </form>
+</div>

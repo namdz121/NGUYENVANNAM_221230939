@@ -1,0 +1,25 @@
+@model th_lad_04.Models.Learner
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container mt-4">
+    <h3>Are you sure you want to delete this?</h3>
+    <div>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3">Họ và Tên</dt>
+            <dd class="col-sm-9">@Model.LastName @Model.FirstMidName</dd>
+            <dt class="col-sm-3">Chuyên ngành</dt>
+            <dd class="col-sm-9">@Model.Major?.MajorName</dd>
+            <dt class="col-sm-3">Ngày nhập học</dt>
+            <dd class="col-sm-9">@Model.EnrollmentDate.ToString("dd/MM/yyyy")</dd>
+        </dl>
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="LearnerID" />
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,38 @@
+@model IEnumerable<th_lad_04.Models.Learner>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-4">
+    <h2>Learner List</h2>
+    <p><a asp-action="Create" class="btn btn-primary">Create New Student</a></p>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Mã</th>
+                <th>Tên</th>
+                <th>Họ</th>
+                <th>Ngành</th>
+                <th>Ngày Nhập Học</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.LearnerID</td>
+                    <td>@s.FirstMidName</td>
+                    <td>@s.LastName</td>
+                    <td>@s.Major?.MajorName</td>
+                    <td>@s.EnrollmentDate.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@s.LearnerID" class="btn btn-sm btn-warning">Edit</a> |
+                        <a asp-action="Delete" asp-route-id="@s.LearnerID" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
