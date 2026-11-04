@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88BC7E00-F77F-CD46-915B-5E89C94026AC}|th_lad_04\\th_lad_04.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\th_lad_04\\th_lad_04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88BC7E00-F77F-CD46-915B-5E89C94026AC}|th_lad_04\\th_lad_04.csproj|solutionrelative:th_lad_04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128FB24F-EE8C-D85D-4DA8-7213F804AE75}|DBFirstApp\\DBFirstApp.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\th_lad_04\\dbfirstapp\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128FB24F-EE8C-D85D-4DA8-7213F804AE75}|DBFirstApp\\DBFirstApp.csproj|solutionrelative:dbfirstapp\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{128FB24F-EE8C-D85D-4DA8-7213F804AE75}|DBFirstApp\\DBFirstApp.csproj|d:\\l\u1EADp tr\u00ECnh web\\baitapweb\\nguyenvannam_221230939\\th_lad_04\\dbfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{128FB24F-EE8C-D85D-4DA8-7213F804AE75}|DBFirstApp\\DBFirstApp.csproj|solutionrelative:dbfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,11 +90,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "th_lad_04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "th_lad_04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T00:56:00.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\DBFirstApp\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "DBFirstApp\\Controllers\\LearnerController.cs",
+              "ToolTip": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\DBFirstApp\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "DBFirstApp\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:30:59.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\DBFirstApp\\appsettings.json",
               "RelativeDocumentMoniker": "DBFirstApp\\appsettings.json",
@@ -94,12 +128,11 @@
               "RelativeToolTip": "DBFirstApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-28T03:27:26.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T03:27:26.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\DBFirstApp\\Program.cs",
               "RelativeDocumentMoniker": "DBFirstApp\\Program.cs",
@@ -107,12 +140,11 @@
               "RelativeToolTip": "DBFirstApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:27:12.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T03:27:12.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\DBFirstApp\\Models\\SchoolContext.cs",
               "RelativeDocumentMoniker": "DBFirstApp\\Models\\SchoolContext.cs",
@@ -120,12 +152,11 @@
               "RelativeToolTip": "DBFirstApp\\Models\\SchoolContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAIA8wBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T03:10:52.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T03:10:52.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DBFirstApp.csproj",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\DBFirstApp\\DBFirstApp.csproj",
               "RelativeDocumentMoniker": "DBFirstApp\\DBFirstApp.csproj",
@@ -133,12 +164,11 @@
               "RelativeToolTip": "DBFirstApp\\DBFirstApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-28T03:05:21.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T03:05:21.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Views\\Learner\\Edit.cshtml",
               "RelativeDocumentMoniker": "th_lad_04\\Views\\Learner\\Edit.cshtml",
@@ -150,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Views\\Learner\\Index.cshtml",
               "RelativeDocumentMoniker": "th_lad_04\\Views\\Learner\\Index.cshtml",
@@ -162,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Views\\Learner\\Details.cshtml",
               "RelativeDocumentMoniker": "th_lad_04\\Views\\Learner\\Details.cshtml",
@@ -174,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Views\\Learner\\Delete.cshtml",
               "RelativeDocumentMoniker": "th_lad_04\\Views\\Learner\\Delete.cshtml",
@@ -186,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Views\\Learner\\Create.cshtml",
               "RelativeDocumentMoniker": "th_lad_04\\Views\\Learner\\Create.cshtml",
@@ -198,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "LearnerController.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Controllers\\LearnerController.cs",
               "RelativeDocumentMoniker": "th_lad_04\\Controllers\\LearnerController.cs",
@@ -210,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "th_lad_04\\Data\\DbInitializer.cs",
@@ -222,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "th_lad_04\\Data\\SchoolContext.cs",
@@ -234,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "th_lad_04\\Models\\Enrollment.cs",
@@ -246,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Learner.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Models\\Learner.cs",
               "RelativeDocumentMoniker": "th_lad_04\\Models\\Learner.cs",
@@ -258,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Models\\Course.cs",
               "RelativeDocumentMoniker": "th_lad_04\\Models\\Course.cs",
@@ -270,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Major.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Models\\Major.cs",
               "RelativeDocumentMoniker": "th_lad_04\\Models\\Major.cs",
@@ -282,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\appsettings.json",
               "RelativeDocumentMoniker": "th_lad_04\\appsettings.json",
@@ -290,12 +320,11 @@
               "RelativeToolTip": "th_lad_04\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-28T02:25:00.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T02:25:00.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\l\u1EADp tr\u00ECnh web\\BAITAPWEB\\NGUYENVANNAM_221230939\\th_lad_04\\th_lad_04\\Program.cs",
               "RelativeDocumentMoniker": "th_lad_04\\Program.cs",
@@ -303,8 +332,7 @@
               "RelativeToolTip": "th_lad_04\\Program.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T02:24:57.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T02:24:57.709Z"
             }
           ]
         }
